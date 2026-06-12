@@ -52,7 +52,7 @@
       ####
       Good Example
       ####
-      The CO2 dashboard could be improved by adding more short annotations to explain the main findings, such as why South Korea’s emissions changed between selected years. It could also make accessibility stronger by not relying only on colour to show income groups. Adding clearer labels, symbols, or patterns would help more viewers understand the categories. The dashboard could also more clearly explain the difference between total CO2 emissions and CO2 per capita.
+      The CO2 dashboard could be improved by adding more short annotations to explain the main findings, such as why South Korea’s emissions changed between selected years. It could also make accessibility stronger by not relying only on colour to show income groups. The dashboard could also more clearly explain the difference between total CO2 emissions and CO2 per capita.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
