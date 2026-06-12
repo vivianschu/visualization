@@ -9,26 +9,50 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+    ```
+    ####
+    Bad example
+    ####
+    Source: https://public.tableau.com/app/profile/vivien.lee88/viz/Formula1ConstructorsRadialBumpChart/Dashboard1
 
+    This visualization is a radial bump chart showing Formula 1 constructors from 2006-2025. It shows how different teams changed ranking or position over time. 
 
+    Font size and color: The title is large and easy to read and the background makes the chart visually interested. However, it also uses many bright coloured lines which makes it difficult to follow one constructor across the full time period. Some times may have similar colors, so viewers have to keep looking back at the legend. This makes the chart less accessible, especially with people with color vision difficulties.
 
+    Layout: The radial layout is creative, but makes the data harder to understand. The years are arranged in a circle and the viewer has to rotate their attention around the chart, making it difficult to compare changes across years. 
 
+    Visual encoding: The chart uses position and line movement to change ove time, but the circular shape distorts comparing positions. Lines cross often and some overlap in the middle of the chart, creating visual clutter. 
 
+    Data interpretation: The visualization does not explain what the lien positions represent and is not immediately clear whether the chart shows constructor ranking, points, championship position, or another measure. The note also says only said only the Top 10 teams are shown but may confused viewers because not all constructors are represented equally across years. 
 
+    ####
+    Good Example
+    ####
+    Source: https://public.tableau.com/app/profile/harim.jung/viz/GlobalCODashboardPoweredbyTableauAgent/TableauAgentClimateDashboard
 
-      ```
+    This visualization is an AI-powered climate change dashboard that focuses on South Korea’s CO2 emissions. It shows several measures, including CO2 global share, cumulative CO2 share, CO2 per capita, CO2 per GDP, and total CO2 emissions.
+
+    Font size and color: The dashboard uses clear font sizes and strong contrast between text and background. The dark title bar separates the heading from the rest of the dashboard. The colors are also meaningful because they group countries by income level helping the user to understand patterns without needing too much explanation. 
+
+    Layout: The layout is clean and organized. The large "Cumulative Carbon Clock" on the left gives the viewer a main visual focus, while the smaller charts on the right provide supporting  details. This is a clear visual hierarchy where the viewer can first understand overall CO2 pattern then look at specific indicators.
+
+    Visual encoding: The bubble chart compares CO2 per GDP and CO2 per capita and the smaller line plots show changes over time. The chart types match the kind of comparison being made.
+
+    Interactivity: The dashboard lets the user select a country and year. In this case, South Korea is selected and clearly labelled in the bubble chart for the broader global comparison.
+    
+    Reference: course lecture - cognitive load (intrinsic, extraneous), aesthetic
+    ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      ####
+      Bad Example
+      ####
+      The Formula 1 radial bump chart could be improved by using a standard horizontal bump chart instead of a circular layout. This would make it easier to compare teams across years from left to right. The author could also reduce the number of colours or directly label the lines so viewers do not have to keep checking the legend. The chart should clearly explain what the line position means, such as constructor ranking, points, or championship position.
 
-
-
-
-
-
-      
+      ####
+      Good Example
+      ####
+      The CO2 dashboard could be improved by adding more short annotations to explain the main findings, such as why South Korea’s emissions changed between selected years. It could also make accessibility stronger by not relying only on colour to show income groups. Adding clearer labels, symbols, or patterns would help more viewers understand the categories. The dashboard could also more clearly explain the difference between total CO2 emissions and CO2 per capita.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
